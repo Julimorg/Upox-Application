@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "com.example.first_app-merged_res-51:/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "com.example.first_app-main-45:/mipmap-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-xxhdpi_splash.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-night-hdpi_android12splash.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-night-hdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable_splashscreen.gif.flat",
+        "source": "com.example.first_app-main-45:/drawable/splashscreen.gif"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-xhdpi_splash.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "com.example.first_app-main-45:/mipmap-mdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "com.example.first_app-main-45:/mipmap-xxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-mdpi_android12splash.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-mdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-night-xhdpi_android12splash.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-night-xhdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.first_app-main-45:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.first_app-main-45:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "com.example.first_app-main-45:/mipmap-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-xxhdpi_android12splash.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-xxhdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-night-xxhdpi_android12splash.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-night-xxhdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable_uti.png.flat",
+        "source": "com.example.first_app-main-45:/drawable/uti.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/mipmap-anydpi-v26_launcher_icon.xml.flat",
+        "source": "com.example.first_app-main-45:/mipmap-anydpi-v26/launcher_icon.xml"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-hdpi_android12splash.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-hdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-night-xxxhdpi_android12splash.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-night-xxxhdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-xxxhdpi_splash.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "com.example.first_app-main-45:/mipmap-xxxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-xxxhdpi_android12splash.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-xxxhdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-xhdpi_android12splash.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-xhdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.first_app-main-45:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.first_app-main-45:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-night-mdpi_android12splash.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-night-mdpi/android12splash.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable_app_icon_600.png.flat",
+        "source": "com.example.first_app-main-45:/drawable/app_icon_600.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable_icon.png.flat",
+        "source": "com.example.first_app-main-45:/drawable/icon.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.first_app-main-45:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.first_app-main-45:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-hdpi_splash.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-mdpi_splash.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "com.example.first_app-merged_res-51:/drawable-v21_background.png.flat",
+        "source": "com.example.first_app-main-45:/drawable-v21/background.png"
+    }
+]
